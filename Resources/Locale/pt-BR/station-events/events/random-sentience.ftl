@@ -30,9 +30,9 @@ station-event-random-sentience-announcement = Baseado em { $data }, nós acredit
 station-event-random-sentience-role-description = Você é um { $name } senciente, trazido à vida através da magia espacial.
 
 # Flavors
-station-event-random-sentience-flavor-mechanical = mecânico
-station-event-random-sentience-flavor-organic = orgânico
-station-event-random-sentience-flavor-corgi = corgi
-station-event-random-sentience-flavor-primate = primata
-station-event-random-sentience-flavor-kobold = kobold
-station-event-random-sentience-flavor-slime = slime
+station-event-random-sentience-flavor-mechanical = mecânicos
+station-event-random-sentience-flavor-organic = orgânicos
+station-event-random-sentience-flavor-corgi = corgis
+station-event-random-sentience-flavor-primate = primatas
+station-event-random-sentience-flavor-kobold = kobolds
+station-event-random-sentience-flavor-slime = slimes
