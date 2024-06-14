@@ -1,7 +1,7 @@
-# Restrictions
-loadout-restrictions = Restrictions
+# Restriçoes
+loadout-restrictions = Restriçoes
 loadouts-min-limit = Min count: {$count}
 loadouts-max-limit = Max count: {$count}
-loadouts-points-limit = Points: {$count} / {$max}
+loadouts-points-limit = Pontos: {$count} / {$max}
 
-loadouts-points-restriction = Insufficient points
+loadouts-points-restriction = Pontos Insuficientes

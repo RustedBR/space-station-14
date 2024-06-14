@@ -1,2 +1,2 @@
-chameleon-projector-invalid = You can't disguise as that!
-chameleon-projector-success = Projected new disguise.
+chameleon-projector-invalid = Voce não consegue se disfarçar disso!
+chameleon-projector-success = Projetou um novo disfarce.

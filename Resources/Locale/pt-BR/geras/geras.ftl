@@ -1,2 +1,2 @@
-geras-popup-morph-message-user = You shift and morph into a small version of you!
-geras-popup-morph-message-others = {CAPITALIZE(THE($entity))} shifts and morphs into a blob of slime!
+geras-popup-morph-message-user = Você se transforma em uma versão pequena de si!
+geras-popup-morph-message-others = {CAPITALIZE(THE($entity))} se transforma em uma bolha de slime!
