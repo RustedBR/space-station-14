@@ -175,15 +175,15 @@ loadout-group-medical-doctor-id = ID de Medicina
 
 loadout-group-medical-intern-jumpsuit = Traje do Estagiario Médicos
 
-loadout-group-chemist-jumpsuit = Traje do Químico
-loadout-group-chemist-outerclothing = Casaco do Químico
-loadout-group-chemist-backpack = Mochila do Químico
+loadout-group-chemist-jumpsuit = Traje de Químico
+loadout-group-chemist-outerclothing = Casaco de Químico
+loadout-group-chemist-backpack = Mochila de Químico
 
-loadout-group-paramedic-head = Cabeça do Paramédico
-loadout-group-paramedic-jumpsuit = Traje do Paramédico
-loadout-group-paramedic-outerclothing = Casaco do Paramédico
-loadout-group-paramedic-shoes = Sapatos do Paramédico
-loadout-group-paramedic-backpack = Mochila do Paramédico
+loadout-group-paramedic-head = Cabeça de Paramédico
+loadout-group-paramedic-jumpsuit = Traje de Paramédico
+loadout-group-paramedic-outerclothing = Casaco de Paramédico
+loadout-group-paramedic-shoes = Sapatos de Paramédico
+loadout-group-paramedic-backpack = Mochila de Paramédico
 
 # Coringa
 loadout-group-reporter-jumpsuit = Traje do Repórter
